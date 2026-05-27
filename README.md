@@ -66,9 +66,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cidade d
 
 <div align="center">
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phalvees07-dotcom&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phalvees07-dotcom&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phalvees07-dotcom&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phalvees07-dotcom&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
