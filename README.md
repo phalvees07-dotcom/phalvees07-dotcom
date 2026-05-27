@@ -1,9 +1,7 @@
 # 👋 Olá, eu sou o Pedro Henrique!
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+na+UNICID;Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+%F0%9F%9A%80)
-
+ 🎓 Estudante de ADS | 💻 Desenvolvedor em formação | 🚀 São Paulo - SP
 </div>
 
 ---
